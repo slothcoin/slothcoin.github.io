@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/slothcoin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://slothcoin.github.io
+  * I am slothcoin (https://keybase.io/slothcoin) on keybase.
+  * I have a public key ASDk7c6Dv7t89O-wVJp4iQZixqYnipd_hVC-_lsZqEgOkgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e4edce83bfbb7cf4efb0549a78890662c6a6278a977f8550befe5b19a8480e920a",
+      "host": "keybase.io",
+      "kid": "0120e4edce83bfbb7cf4efb0549a78890662c6a6278a977f8550befe5b19a8480e920a",
+      "uid": "2857059db19f37e0548fe87477dca919",
+      "username": "slothcoin"
+    },
+    "merkle_root": {
+      "ctime": 1630182652,
+      "hash": "9acd90c83fe4b982b94a3be377513494c9707c541e07d3c95c260578ec65603f2c312aa5a9f3c4068866727f2a30e1d7b9d4bed3fce1ffbf86a7c1e61a67f8a6",
+      "hash_meta": "65227c3f5e8bfb179477c6fa3ce252bba5a5fc5bbe87637ca8b0ba57f4f84682",
+      "seqno": 20656367
+    },
+    "service": {
+      "entropy": "H7cZ3M3g1RzLqdv4hbyZBRCL",
+      "hostname": "slothcoin.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1630182704,
+  "expire_in": 504576000,
+  "prev": "3ac50788b1557e30902fad34aba984bca506781dd2dfd7f9b6eb16ab8333fd74",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5O3Og7+7fPTvsFSaeIkGYsamJ4qXf4VQvv5bGahIDpIKp3BheWxvYWTESpcCBsQgOsUHiLFVfjCQL600q6mEvKUGeB3S39f5tusWq4Mz/XTEIB74VRFPQn19oskU5tB7K8CqA+jYj1grHU7DYjNplHKmAgHCo3NpZ8RAsy3vgOEt28HMyEQgjN6WLg1ANCr8ME9anwexzZMN9aPHW663fQy9RF4QVdZVgYPXHySSKbfhvZWDFoxxpZMjCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIIfTql291rGBpr/hphpbt8DOe2MVZkqWIBXb1P2unsso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/slothcoin
+
+==================================================================
